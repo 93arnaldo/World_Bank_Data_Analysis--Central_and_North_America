@@ -20,3 +20,19 @@ Economic policy
 Environment
 
 
+import pandas as pd
+import matplotlib.pyplot as plt
+
+file='WDIW Dataset.xlsx'
+
+data=pd.read_excel(file)
+
+data.shape
+country=['Belize','Bermuda','Canada','Costa Rica','El Salvador','Guatemala','Honduras','Mexico','Nicaragua','Panama','United States']
+
+for names in country:
+    
+
+
+
+

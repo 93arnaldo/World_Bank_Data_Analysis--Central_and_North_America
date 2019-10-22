@@ -10,12 +10,13 @@ Poverty
 Education
 
 Group 2:
+Health
+Infraestructure
+
+Group 3:
 Public sector
 Social protection
 Economic policy
 Environment
 
-Group 3:
-Health
-Infraestructure
 

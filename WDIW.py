@@ -15,3 +15,6 @@ missing_values = wdiw_hr.isnull().sum().sum()
 
 #All the medians
 wdiw_median = wdiw_hr.iloc[:, 4:].median()
+
+#All the means
+wdiw_mean = wdiw_hr.iloc[:, 4:].mean().round(2)
